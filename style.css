@@ -1,3 +1,8 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
 .meme-generator {
     font-family: "Roboto", sans-serif;
     text-align: center;
